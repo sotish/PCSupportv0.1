@@ -1,0 +1,8 @@
+Number of print services: 7
+Printer 1 name: Microsoft XPS Document Writer
+Printer 2 name: Lexmark 3500-4500 Series
+Printer 3 name: Foxit Reader PDF Printer
+Printer 4 name: Fax
+Printer 5 name: Epson Stylus CX6600 (M)
+Printer 6 name: Epson ESC/P-R
+Printer 7 name: Dell 1130n Laser Printer
